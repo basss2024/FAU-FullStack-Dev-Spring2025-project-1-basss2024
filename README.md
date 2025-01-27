@@ -30,10 +30,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src="https://github.com/basss2024/FAU-FullStack-Dev-Spring2025-project-1-basss2024/raw/main/project1.gif" alt="Video Walkthrough" width="600">
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with EZGIF https://ezgif.com/video-to-gif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
