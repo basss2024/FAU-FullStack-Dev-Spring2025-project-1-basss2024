@@ -6,7 +6,7 @@
 Submitted by: **Shamiah Bass**
 #Z23526337
 
-This web app: **Displays the best beaches in Florida for 2025. You can click on a card and it will direct you to the infomration of the beach.**
+This web app: **Displays the best beaches in Florida for 2025. You can click on a card and it will give you infomation about the beach.**
 
 Time spent: **24** hours spent in total
 
@@ -43,7 +43,7 @@ GIF created with EZGIF https://ezgif.com/video-to-gif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The only thing I struggeld with is fixing errors and key operators. 
 
 ## License
 
