@@ -1,12 +1,12 @@
 # FAU-FullStack-Dev-Spring2025-project-1-basss2024
 
 
-# Web Development Project 1 - *Best Florida Beaches*
+# Web Development Project 1 - *Best Florida Beaches 2025*
 
 Submitted by: **Shamiah Bass**
 #Z23526337
 
-This web app: **insert description**
+This web app: **Displays the best beaches in Florida for 2025. You can click on a card and it will direct you to the infomration of the beach.**
 
 Time spent: **24** hours spent in total
 
@@ -14,13 +14,13 @@ Time spent: **24** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x ] **There is a unique theme for events or resources relevant to a specific community**
+- [x ] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [x ] Buttons or links to a related resources are on each card component
+- [ x] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
