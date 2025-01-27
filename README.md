@@ -29,9 +29,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+<img src="https://basss2024/FAU-FullStack-Dev-Spring2025-project-1-basss2024/main/project1.gif" alt="Sea Monster Crowdfunding GIF" width="600">
 
-
-<img src="https://github.com/basss2024/FAU-FullStack-Dev-Spring2025-project-1-basss2024/raw/main/project1.gif" alt="Video Walkthrough" width="600">
 
 
 
